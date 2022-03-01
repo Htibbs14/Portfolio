@@ -85,15 +85,6 @@ p {
 }
 
 @media (max-width: 576px) {
-  .homePics {
-    display: none;
-  }
-  .primary-link {
-    text-align: center;
-    display: block;
-    margin: 0 auto;
-    max-width: 400px;
-  }
   h1 {
     font-size: 60px;
   }
@@ -104,5 +95,17 @@ p {
   }
   p {
     text-align: center;
+  }
+  .homePics {
+    display: none;
+  }
+  .primary-link {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    max-width: 400px;
+  }
+  .col-sm-4 {
+    margin-bottom: 20px;
   }
 }
