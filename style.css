@@ -95,15 +95,14 @@ p {
   }
   p {
     text-align: center;
-  }
-  .homePics {
+  }  .homePics {
     display: none;
   }
   .primary-link {
     text-align: center;
     display: block;
-    margin: 0 auto;
-    max-width: 400px;
+    margin: 0 20px;
+    max-width: 480px;
   }
   .col-sm-4 {
     margin-bottom: 20px;
